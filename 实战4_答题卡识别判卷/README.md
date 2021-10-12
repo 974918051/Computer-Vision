@@ -14,22 +14,22 @@
 
 #### 效果展示：
 
-Blurred:![blurred](实战4_答题卡识别判卷/answer_sheet/blurred.png)
+Blurred:![blurred](./answer_sheet/blurred.png)
 
-edged:![edged](实战4_答题卡识别判卷/answer_sheet/edged.png)
+edged:![edged](./answer_sheet/edged.png)
 
-contours_img:![contours_img](实战4_答题卡识别判卷/answer_sheet/contours_img.png)
+contours_img:![contours_img](./answer_sheet/contours_img.png)
 
-warped:![warped](实战4_答题卡识别判卷/answer_sheet/warped.png)
+warped:![warped](./answer_sheet/warped.png)
 
-thresh:![thresh](实战4_答题卡识别判卷/answer_sheet/thresh.png)
+thresh:![thresh](./answer_sheet/thresh.png)
 
-thresh_Contours:![thresh_Contours](实战4_答题卡识别判卷/answer_sheet/thresh_Contours.png)
+thresh_Contours:![thresh_Contours](./answer_sheet/thresh_Contours.png)
 
-mask1:![mask1](实战4_答题卡识别判卷/answer_sheet/mask1.png)
+mask1:![mask1](./answer_sheet/mask1.png)
 
-mask2:![mask2](实战4_答题卡识别判卷/answer_sheet/mask2.png)
+mask2:![mask2](./answer_sheet/mask2.png)
 
-Original:![Original](实战4_答题卡识别判卷/answer_sheet/Original.png)
+Original:![Original](./answer_sheet/Original.png)
 
-Exam:![Exam](实战4_答题卡识别判卷/answer_sheet/Exam.png)
+Exam:![Exam](./answer_sheet/Exam.png)
