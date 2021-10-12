@@ -16,9 +16,9 @@
 
 ### 效果展示：
 
-图A：![](实战3_图像拼接/ImageStich/left_01.png)
+图A：![](./ImageStich/left_01.png)
 
-图B：![](实战3_图像拼接/ImageStich/right_01.png)
+图B：![](./ImageStich/right_01.png)
 
-拼接后：![](实战3_图像拼接/ImageStich/result.png)
+拼接后：![](./ImageStich/result.png)
 
