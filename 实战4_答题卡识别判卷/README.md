@@ -16,8 +16,6 @@
 
 Blurred:![blurred](实战4_答题卡识别判卷/answer_sheet/blurred.png)
 
-
-
 edged:![edged](实战4_答题卡识别判卷/answer_sheet/edged.png)
 
 contours_img:![contours_img](实战4_答题卡识别判卷/answer_sheet/contours_img.png)
